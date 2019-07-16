@@ -1,2 +1,6 @@
 ddfdsfdsf
-last items
+<<<<<<< HEAD
+=======
+fdsfdsfdfdfdsf
+final change
+>>>>>>> my-great-feature
